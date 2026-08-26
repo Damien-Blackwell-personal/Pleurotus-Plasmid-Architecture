@@ -3,7 +3,7 @@
 
 **Lead Researcher/Engineer:** Damien Blackwell (Age 13, UK)
 
-Note: This project is a computational proof-of-concept for synthetic biology workflows.
+Note: This project is a computational proof-of-concept for synthetic biology workflows.Computational pipelines developed via AI-assisted programming based on my original theoretical frameworks.
 
 ###  Project Overview
 This repository contains the computational framework and architectural modeling for a synthetic plasmid designed for the basidiomycete fungus *Pleurotus ostreatus* (Oyster Mushroom). 
